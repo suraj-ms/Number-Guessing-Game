@@ -96,18 +96,20 @@ html {
     margin: 10px;
     padding: 1px;
     border-radius: 5px;
-    display: none;
   }
 
-  .newGameMessage{
-    background-color: #212121;
+  #newGame{
+    background-color: #141414;
     color: #ffffff;
     position: absolute;
     top: 50%;
     left: 50%;
-    width: fit-content;
-    height: 200px;
-    transform: translate(-50%,-50%);
+    width: 29.7%;
+    height: 20%;
+    transform: translate(-53.5%,-50%);
     cursor: pointer;
+    /* padding: 10px; */
+    padding-top: 100px;
+  
   }
   
